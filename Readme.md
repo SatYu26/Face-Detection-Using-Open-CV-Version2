@@ -1,0 +1,1 @@
+This is an OpenCv project to detect faces.
